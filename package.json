@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Odin Project todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinitu/todoList.git"
+  },
+  "author": "Martin I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martinitu/todoList/issues"
+  },
+  "homepage": "https://github.com/Martinitu/todoList#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
