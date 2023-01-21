@@ -1,0 +1,13 @@
+body {
+   
+}
+
+#content {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+#heading {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
